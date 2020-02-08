@@ -1,7 +1,7 @@
 # Solution for test case from Jooble
 
 The repository include:
-* jobData.prep.py - solution scrip
+* jobData.prep.py - solution script
 * test.tsv, train.tsv - input data files from task
 * test.add.tsv, train.add.tsv - new input data files with additional feature sets
 
